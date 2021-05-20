@@ -36,11 +36,11 @@
 }
 
 .ci2{
-    background-image: url('./blog_imgs/new.jpg');
+    background-image: url(./blog_imgs/new.jpg);
 }
 
 .ci3{
-    background-image: url('./blog_imgs/bg3.jpg');
+    background-image: url(./blog_imgs/bg3.jpg);
 }
 
 h1{
