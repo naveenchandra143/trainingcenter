@@ -15,7 +15,7 @@
 @import url(./flaticon.css);
 @import url(./versions.css);
 @import url(./responsive.css);
-
+/*@import url(./bootstrap.min.css);*/
 
 /*------------------------------------------------------------------
     SKELETON
@@ -147,7 +147,7 @@ a,
   }
   
   .text-block {
-    position: absolute;
+    /*position: absolute;*/
     bottom: 20px;
     right: 20px;
     background-color: black;

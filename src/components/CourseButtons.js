@@ -5,7 +5,7 @@ class CourseButtons extends React.Component{
         return(
             <div>
 
-                <div className=" text-center pr-2 pr-2" id="buttons" >
+                <div className=" text-center pr-2 pr-2" id="buttonss" >
                         
                         <button className="btn btn-sm btn-warning mr-1"><a href="#1" className="text-dark" style={{textDecoration:"none",fontWeight:"bolder"}}>1</a></button>
                         <button className="btn btn-sm btn-warning mr-1"><a href="#2" className="text-dark" style={{textDecoration:"none",fontWeight:"bolder"}}>2</a></button>
@@ -18,7 +18,7 @@ class CourseButtons extends React.Component{
                         <button className="btn btn-sm btn-warning mr-1"><a href="#9" className="text-dark" style={{textDecoration:"none",fontWeight:"bolder"}}>9</a></button>
                         <button className="btn btn-sm btn-warning mr-1"><a href="#10" className="text-dark" style={{textDecoration:"none",fontWeight:"bolder"}}>10</a></button>
                         <button className="btn btn-sm btn-warning mr-1"><a href="#11" className="text-dark" style={{textDecoration:"none",fontWeight:"bolder"}}>11</a></button>
-                       
+                        <button className="btn btn-sm btn-warning mr-1"><a href="#12" className="text-dark" style={{textDecoration:"none",fontWeight:"bolder"}}>12</a></button>
                 </div>
                 <h3 id="sc" className="text-center text-light">Or scroll courses</h3>
             </div>

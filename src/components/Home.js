@@ -1,9 +1,10 @@
 import React,{useState} from 'react'
 import  home from '../css/home.css'
+import Footer from './Footer'
+import Navbar from './Navbar'
 
 const Home = () => {
     return (
-    <>
     <div className="body host_version"> 
 <div id="carouselExampleIndicators" className="carousel slide bs-slider box-slider" data-ride="carousel" data-interval="2000" style={{backgroundColor: "#24272c"}}>
   <ol className="carousel-indicators">
@@ -196,7 +197,7 @@ const Home = () => {
         </div>
     </div>
     </div>
- </>
+
     )
 }
 

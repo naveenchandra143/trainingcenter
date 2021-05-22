@@ -2,6 +2,8 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Galleryimg from '../component/Galleryimg';
 import gallery from '../css/gallery.css'
+import Footer from './Footer';
+import Navbar from './Navbar';
 /*import './styles.css' ;*/
 
 const Gallery=()=>{

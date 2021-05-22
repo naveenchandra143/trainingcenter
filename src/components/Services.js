@@ -1,6 +1,8 @@
 import React from 'react'
 import services from '../css/services.css'
 import {FaDesktop} from 'react-icons/fa'
+import Footer from './Footer'
+import Navbar from './Navbar'
 class Services extends React.Component{
     render(){
       return( 

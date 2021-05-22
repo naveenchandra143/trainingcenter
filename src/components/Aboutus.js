@@ -1,6 +1,8 @@
 import React from 'react'
 import {Aboutcomp,AboutComp} from '../component/Aboutcomp'
 import about from '../css/about.css'
+import Footer from './Footer'
+import Navbar from './Navbar'
 const Aboutus = () => {
     return (
         <div className="bodys" style={{backgroundColor:'#24272c'}}>
@@ -67,6 +69,7 @@ const Aboutus = () => {
        </div>
        </div>
         </div>
+        
     )
 }
 

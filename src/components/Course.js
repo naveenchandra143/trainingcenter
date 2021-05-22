@@ -6,9 +6,9 @@ import courses from '../css/courses.css'
 class Course extends React.Component{
     render(){
         return (        
-                <div> 
-                    <h1 className="ml-4">Technology & Development</h1>
-                    <h1 className="ml-4">All Technology & Development Courses</h1>
+                <div className="body1"> 
+                    <h1 className="ml-4 h11">Technology & Development</h1>
+                    <h1 className="ml-4 h11">All Technology & Development Courses</h1>
                     <br/>                   
                     <CourseButtons />
                     <CourseDet />                  

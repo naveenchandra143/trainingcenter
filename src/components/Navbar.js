@@ -5,7 +5,7 @@ import navbar from '../css/navbar.css'
 
 const Navbar = () => {
     return (
-        <>  
+		<div>
 	<header className="top-navbar">
         <div id="preloader">
 		<div className="loader-container">
@@ -47,7 +47,7 @@ const Navbar = () => {
 			</div>
 		</nav>
 	</header>
-        </>
+	</div>
     )
 }
 

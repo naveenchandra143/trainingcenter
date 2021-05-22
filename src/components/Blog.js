@@ -1,7 +1,9 @@
 import React from 'react'
 import  {Card, Carousel} from "../component/Blogcomp"
 import details from '../component/Blogdetails'
-//import blog from '../css/blog.css'
+import blog from '../css/blog.css'
+//import Footer from './Footer'
+//import Navbar from './Navbar'
 
 const Blog = () => {
     function createCard(details){
@@ -14,7 +16,7 @@ const Blog = () => {
             <div class="text-block">
       <h4><u className="bn">BLOG</u></h4>
     </div>
-    <img className="ed-img" src="./blog_imgs/newbg.jpg" alt="image" />
+    <img className="ed-img" src="https://image.freepik.com/free-photo/optimistic-message-back-school_1134-378.jpg" alt="image" />
    
 <Carousel></Carousel>
 <div class="album py-5" >

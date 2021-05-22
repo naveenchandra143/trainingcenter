@@ -2,6 +2,8 @@ import React from 'react'
 import Pricingtab from '../component/Pricingtab'
 
 import pricing from '../css/pricing.css'
+import Footer from './Footer'
+import Navbar from './Navbar'
 
 const Pricing = () => {
     return (
